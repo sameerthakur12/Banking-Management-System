@@ -1,0 +1,29 @@
+# Java build files
+*.class
+
+# Logs
+*.log
+
+# OS-specific files (for MacOS, Windows)
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Maven or Gradle build directories (if you're using them)
+target/
+build/
+
+# Generated files (e.g., dependency libraries or compiled jars)
+*.jar
+
+# Eclipse, IntelliJ specific files
+.settings/
+.vscode/
+
+# Temporary files
+*.tmp
